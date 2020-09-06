@@ -1,0 +1,46 @@
+﻿  hw3.cpp
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.h(124,35): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+  SoundManager.cpp
+  Spacecraft.cpp
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.h(124,35): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(902,24): warning C4244: '초기화 중': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(952,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(957,71): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(958,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(963,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(969,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(974,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(978,21): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(978,21): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(979,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(983,21): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(983,21): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(984,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(989,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1001,135): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1008,136): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1017,210): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1020,209): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1023,207): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\Project1\Spacecraft.cpp(1032,136): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SpacecraftSound.cpp
+  코드를 생성하고 있습니다...
+SoundManager.obj : error LNK2019: __imp_mmioOpenW"public: long __cdecl CWaveFile::Open(wchar_t *,struct tWAVEFORMATEX *,unsigned long)" (?Open@CWaveFile@@QEAAJPEA_WPEAUtWAVEFORMATEX@@K@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioClose"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioRead"protected: long __cdecl CWaveFile::ReadMMIO(void)" (?ReadMMIO@CWaveFile@@IEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioWrite"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioSeek"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioGetInfo"public: long __cdecl CWaveFile::Read(unsigned char *,unsigned long,unsigned long *)" (?Read@CWaveFile@@QEAAJPEAEKPEAK@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioSetInfo"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioAdvance"public: long __cdecl CWaveFile::Read(unsigned char *,unsigned long,unsigned long *)" (?Read@CWaveFile@@QEAAJPEAEKPEAK@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioDescend"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioAscend"public: long __cdecl CWaveFile::Close(void)" (?Close@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2019: __imp_mmioCreateChunk"public: long __cdecl CWaveFile::ResetFile(void)" (?ResetFile@CWaveFile@@QEAAJXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundManager.obj : error LNK2001: 확인할 수 없는 외부 기호 IID_IDirectSound3DListener
+SoundManager.obj : error LNK2001: 확인할 수 없는 외부 기호 IID_IDirectSound3DBuffer
+SoundManager.obj : error LNK2001: 확인할 수 없는 외부 기호 IID_IDirectSoundNotify
+C:\Users\Administrator\Desktop\HW4_201401090(김민수)\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 14개의 확인할 수 없는 외부 참조입니다.
